@@ -5,6 +5,7 @@ You can add a word and example pair to a list and they are shown on the left sid
 
 Future Development:
 Add a horizontal line between each word
+Make the words display a clickable links of all the words, that when clicked shows the name and example
 
 */
 
